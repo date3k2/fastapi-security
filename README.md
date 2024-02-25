@@ -1,0 +1,1 @@
+### Simple implementation of rating limit API to prevent spamming to server, along with brute force attack method.
